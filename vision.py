@@ -66,3 +66,6 @@ if submit:
     response=get_gemini_response(input_prompt,image_data,input)
     st.subheader("The Response is")
     st.write(response)
+
+
+
